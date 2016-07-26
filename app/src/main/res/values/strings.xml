@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewShots</string>
+
+    <string name="title_section1">News</string>
+    <string name="title_section2">Horoscope</string>
+    <string name="title_section3">About Us</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+       <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

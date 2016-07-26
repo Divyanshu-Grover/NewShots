@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.divyanshu.newshots.Menu3_Fragment"
+    android:background="@drawable/backgrounddragon"
+    android:id="@+id/aboutusLayout">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:id="@+id/textaboutus"
+
+        android:text = "Developed By:
+        Divyanshu Grover
+        Email:divyanshu.grover@gmail.com"
+
+        android:layout_gravity="top|center_horizontal"/>
+
+</FrameLayout>
